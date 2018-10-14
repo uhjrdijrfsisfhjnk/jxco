@@ -24,4 +24,4 @@ message.channel.send(`${args}`); // محطوط # عشان محد يستخدم ا
 }
 });
 
-client.login(process.env.BOT_TOKEN); 
+client.login(process.env.BOT_TOKEN);
